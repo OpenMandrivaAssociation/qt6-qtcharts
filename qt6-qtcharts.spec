@@ -30,6 +30,7 @@ BuildRequires:	cmake(Qt%{major}QuickTest)
 BuildRequires:	cmake(Qt%{major}Test)
 BuildRequires:	cmake(Qt%{major}Qml)
 BuildRequires:	cmake(Qt%{major}Qml)
+BuildRequires:	pkgconfig(opengl)
 BuildRequires:	qt%{major}-cmake
 License:	LGPLv3/GPLv3/GPLv2
 

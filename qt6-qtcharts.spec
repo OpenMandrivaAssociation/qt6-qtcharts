@@ -29,7 +29,7 @@ BuildRequires:	cmake(Qt%{major}Network)
 BuildRequires:	cmake(Qt%{major}QuickTest)
 BuildRequires:	cmake(Qt%{major}Test)
 BuildRequires:	cmake(Qt%{major}QmlMeta)
-BuildRequires:	cmake(Qt%{major}QmlModel)
+BuildRequires:	cmake(Qt%{major}QmlModels)
 BuildRequires:	pkgconfig(opengl)
 BuildRequires:	qt%{major}-cmake
 License:	LGPLv3/GPLv3/GPLv2
